@@ -6,17 +6,9 @@ Analyze results of successful and unsucessful campaigns and provide recommendati
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+Most sucessful campaigns launched in May and June, Dec appears to be not a good launching period
 ### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Most sucessful campaigns launched in May and June, Dec appears to be not a good launching period 
-- What can you conclude about the Outcomes based on Goals?
 Campaigns less than 5000 have a higher success rate
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+### Challenges and Difficulties Encountered
+Setting up countifs based on several criterias
+## Results
